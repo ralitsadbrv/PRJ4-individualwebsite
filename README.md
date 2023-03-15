@@ -27,4 +27,4 @@ In order to pass the individual assessment, you must modify the following elemen
 - Social icons: FontAwesome - https://fontawesome.com/ - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
 
 ## CV link
--
+-https://ralitsadbrv.github.io/PRJ4-individualwebsite/
